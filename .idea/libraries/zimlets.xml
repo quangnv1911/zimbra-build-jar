@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="zimlets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/store/data/unittest/zimlets/attack.zip!/" />
+      <root url="jar://$PROJECT_DIR$/store/data/unittest/zimlets/jelmer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/store/data/unittest/zimlets/com_zimbra_unittest.zip!/" />
+      <root url="jar://$PROJECT_DIR$/store/data/unittest/zimlets/absolute.zip!/" />
+      <root url="jar://$PROJECT_DIR$/store/data/unittest/zimlets/adminextension.zip!/" />
+      <root url="jar://$PROJECT_DIR$/store/data/unittest/zimlets/com_zimbra_url.zip!/" />
+      <root url="jar://$PROJECT_DIR$/store/data/unittest/zimlets/phil.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

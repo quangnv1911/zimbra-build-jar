@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zippeddocs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/store/data/briefcase/user1/zippeddocs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

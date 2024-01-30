@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/native/native.iml" filepath="$PROJECT_DIR$/native/native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap/src/soap.iml" filepath="$PROJECT_DIR$/soap/src/soap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soap/soapdocs/soapdocs.iml" filepath="$PROJECT_DIR$/soap/soapdocs/soapdocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store/store.iml" filepath="$PROJECT_DIR$/store/store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zm-mailbox.iml" filepath="$PROJECT_DIR$/.idea/zm-mailbox.iml" />
+    </modules>
+  </component>
+</project>
